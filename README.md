@@ -9,13 +9,12 @@
 - **Tools:** Git, Swing, PyGame, VS Code, IntelliJ
 
 ### 📌 Featured Projects
-- ♟️ [Interactive Chess Game](https://github.com/shakedlevy21/...) – Playable chess game with GUI, move validation, and animations  
-- 🧩 [Maze Generator & A* Solver](https://github.com/shakedlevy21/...) – Visual maze builder and pathfinding visualizer with speed controls
+- ♟️ [Interactive Chess Game](https://github.com/shakedlevy21/Chess-Game) – Playable chess game with GUI, move validation, and animations  
+- 🧩 [Maze Generator & A* Solver](https://github.com/shakedlevy21/Maze-Solver) – Visual maze builder and pathfinding visualizer with speed controls
 
 ### 📫 Contact Me
 - Email: shakedlevy2112@gmail.com  
 - LinkedIn: [shakedlevy21](https://www.linkedin.com/in/shakedlevy21/)  
-- GitHub: [shakedlevy21](https://github.com/shakedlevy21)
 
 <!--
 **shakedlevy21/shakedlevy21** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
