@@ -27,3 +27,6 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 
+- LeetCode:
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+
