@@ -28,5 +28,4 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 
 - LeetCode:
-- [[![Leetcode Stats](https://leetcard.jacoblin.cool/Btq0a0iAHV?theme=unicorn)](https://leetcard.jacoblin.cool/Shaked_Levy?theme=unicorn&font=Jura)](https://leetcard.jacoblin.cool/Shaked_Levy?theme=nord&font=Jura)
-
+- https://leetcard.jacoblin.cool/Shaked_Levy?theme=nord&font=Jura
